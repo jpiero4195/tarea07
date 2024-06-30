@@ -1,0 +1,4 @@
+Calificación: 4/6
+Tenía que usar multplicación en la función recursiva de contar cifras.
+No debe usar la librería vector
+No debe usar swap
